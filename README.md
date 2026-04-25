@@ -1,7 +1,7 @@
 # sales Dashboard using Power Bi
 
 
-in this Project, salses Dash Board was Created during our Training Phase in Data Mites 
+In this Project, salses Dash Board was Created during our Training Phase in Data Mites 
 
 This Taken from **ChatGPT**
 
